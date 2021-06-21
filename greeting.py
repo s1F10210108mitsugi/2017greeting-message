@@ -10,5 +10,3 @@ def greet(name):
     else:
         message = 'Good evening'
     print(message)
-
-greet('Inoue')
